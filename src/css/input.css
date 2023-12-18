@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .hover-teal-text {
+        @apply hover:text-main-teal transition duration-300 ease-in-out
+    }
+}

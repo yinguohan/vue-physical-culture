@@ -1,0 +1,301 @@
+[
+    {
+        "links": [
+            {
+                "url": "https://my.chsi.com.cn/",
+                "text": "学籍查询"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xlcx/index.jsp",
+                "text": "学历查询"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xwcx/index.jsp",
+                "text": "学位查询"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xlcx/bgcx.jsp",
+                "text": "学籍验证"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xlcx/bgcx.jsp",
+                "text": "学历验证"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xlcx/bgcx.jsp",
+                "text": "学位验证"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xlrz/index.jsp",
+                "text": "学历认证"
+            },
+            {
+                "url": "https://xwrz.chsi.com.cn/",
+                "text": "学位认证"
+            }
+        ],
+        "title": "学籍学历学位",
+        "title_url": "",
+        "subtitle": "高等教育学籍/学历/学位信息查询、验证、认证"
+    },
+    {
+        "links": [
+            {
+                "url": "https://www.chsi.com.cn/wssq/",
+                "text": "网上申请"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xlrz/index2.jsp",
+                "text": "报告查验"
+            },
+            {
+                "url": "https://www.chsi.com.cn/xlrz/report_sqjd.jsp",
+                "text": "进度查询"
+            },
+            {
+                "url": "https://www.chsi.com.cn/wssq/sqcl.jsp",
+                "text": "申请材料"
+            }
+        ],
+        "title": "出国教育背景信息服务",
+        "title_url": "https://www.chsi.com.cn/xlrz/index2.jsp",
+        "subtitle": "为学生出国留学提供国内教育背景调查信息服务"
+    },
+    {
+        "links": [
+            {
+                "url": "https://my.chsi.com.cn/archive/gdjy/xj/show.action",
+                "text": "学籍信息"
+            },
+            {
+                "url": "https://my.chsi.com.cn/archive/gdjy/xl/show.action",
+                "text": "学历信息"
+            },
+            {
+                "url": "https://my.chsi.com.cn/archive/gdjy/xw/show.action",
+                "text": "学位信息"
+            },
+            {
+                "url": "https://my.chsi.com.cn/archive/gdjy/ky/show.action",
+                "text": "考研信息"
+            },
+            {
+                "url": "https://my.chsi.com.cn/archive/index.jsp#txjd",
+                "text": "图像校对"
+            },
+            {
+                "url": "https://my.chsi.com.cn/archive/gjhz/index.action",
+                "text": "出国报告发送"
+            },
+            {
+                "url": "https://my.chsi.com.cn/archive/bab/index.action",
+                "text": "申请学籍/学历/学位在线验证报告"
+            }
+        ],
+        "title": "学信档案",
+        "title_url": "https://my.chsi.com.cn/",
+        "subtitle": "高等教育学生信息档案"
+    },
+    {
+        "links": [
+            {
+                "url": "https://gaokao.chsi.com.cn/news/zszc.do",
+                "text": "招生政策"
+            },
+            {
+                "url": "https://gaokao.chsi.com.cn/zsgs/mdgs.jsp",
+                "text": "名单公示"
+            },
+            {
+                "url": "https://gaokao.chsi.com.cn/zxdy/",
+                "text": "咨询周"
+            },
+            {
+                "url": "https://gaokao.chsi.com.cn/zsgs/zhangcheng/",
+                "text": "招生章程"
+            },
+            {
+                "url": "https://gaokao.chsi.com.cn/gdwz.do",
+                "text": "各地网站导航"
+            },
+            {
+                "url": "https://gaokao.chsi.com.cn/zyck/",
+                "text": "志愿参考"
+            }
+        ],
+        "title": "阳光高考",
+        "title_url": "https://gaokao.chsi.com.cn/",
+        "subtitle": "教育部高校招生阳光工程指定平台"
+    },
+    {
+        "links": [
+            {
+                "url": "https://yz.chsi.com.cn/zsml/",
+                "text": "硕士目录"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/bsmlcx/",
+                "text": "博士目录"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/tm/",
+                "text": "推免服务"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/yzwb/",
+                "text": "硕士网报"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/bsbm/",
+                "text": "博士网报"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/zsgs/",
+                "text": "信息公开"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/wsqr/stu/",
+                "text": "网上确认"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/apply/cjcx/",
+                "text": "成绩查询"
+            },
+            {
+                "url": "https://yz.chsi.com.cn/yztj/",
+                "text": "网上调剂"
+            }
+        ],
+        "title": "研招网",
+        "title_url": "https://yz.chsi.com.cn/",
+        "subtitle": "全国硕士研究生报名和调剂指定网站"
+    },
+    {
+        "links": [
+            {
+                "url": " https://www.gatzs.com.cn/",
+                "text": "本科生招生"
+            },
+            {
+                "url": " https://www.gatzs.com.cn/",
+                "text": "研究生招生"
+            },
+            {
+                "url": "https://www.gatzs.com.cn/z/tw/",
+                "text": "依据学测成绩招收台湾高中毕业生"
+            },
+            {
+                "url": "https://www.gatzs.com.cn/z/gatyz/",
+                "text": "面向港澳台招收研究生网上报名"
+            }
+        ],
+        "title": "内地高校面向港澳台招生",
+        "title_url": "https://www.gatzs.com.cn/",
+        "subtitle": "内地高校面向港澳台招生信息网"
+    },
+    {
+        "links": [
+            {
+                "url": "https://www.ncss.cn/student/jobs/index.html",
+                "text": "职位信息"
+            },
+            {
+                "url": "https://wq.ncss.cn/",
+                "text": "网上签约"
+            },
+            {
+                "url": "https://hzzh.chsi.com.cn/",
+                "text": "宏志助航"
+            },
+            {
+                "url": "https://www.ncss.cn/student/jobfair/index.html",
+                "text": "专场招聘"
+            },
+            {
+                "url": "https://www.ncss.cn/student/shixi.html",
+                "text": "实习岗位"
+            },
+            {
+                "url": "https://cy.ncss.cn/",
+                "text": "创服网"
+            },
+            {
+                "url": "https://www.ncss.cn/student/24365",
+                "text": "24365校招"
+            },
+            {
+                "url": "https://www.ncss.cn/jyfxts",
+                "text": "风险提示"
+            },
+            {
+                "url": "https://js.ncss.cn/",
+                "text": "指导教师网"
+            }
+        ],
+        "title": "国家大学生就业服务平台",
+        "title_url": "https://www.ncss.cn/",
+        "subtitle": "24365校园招聘服务"
+    },
+    {
+        "links": [
+            {
+                "url": "https://www.gfbzb.gov.cn/bydj/",
+                "text": "兵役登记"
+            },
+            {
+                "url": "https://www.gfbzb.gov.cn/nvbing/",
+                "text": "女兵报名"
+            },
+            {
+                "url": "https://www.gfbzb.gov.cn/zbbm/gzdt/rwxcd.shtml",
+                "text": "入伍宣传单"
+            },
+            {
+                "url": "https://www.gfbzb.gov.cn/nabing/",
+                "text": "男兵报名"
+            },
+            {
+                "url": "https://www.gfbzb.gov.cn/sgzz/",
+                "text": "招收军士"
+            },
+            {
+                "url": "https://www.gfbzb.gov.cn/zbbm/spzb",
+                "text": "征兵宣传片"
+            }
+        ],
+        "title": "全国征兵网",
+        "title_url": "https://www.gfbzb.gov.cn/",
+        "subtitle": "全国征兵报名唯一官方网站"
+    },
+    {
+        "links": [
+            {
+                "url": "https://xz.chsi.com.cn/speciality/index.action",
+                "text": "专业洞察"
+            },
+            {
+                "url": "https://xz.chsi.com.cn/occupation/index.action",
+                "text": "职业探索"
+            },
+            {
+                "url": "https://xz.chsi.com.cn/video/index.action",
+                "text": "职业微视频"
+            },
+            {
+                "url": "https://xz.chsi.com.cn/survey/index.action",
+                "text": "职业测评"
+            },
+            {
+                "url": "https://xz.chsi.com.cn/occucase/index.action",
+                "text": "职业人物"
+            },
+            {
+                "url": "https://xz.chsi.com.cn/jyzdk/index.action",
+                "text": "就业指导课"
+            }
+        ],
+        "title": "学职平台",
+        "title_url": "https://xz.chsi.com.cn/",
+        "subtitle": "全国大学生学业与职业发展平台"
+    }
+]
