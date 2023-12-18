@@ -1,13 +1,13 @@
 <template>
-    <div class="py-2 h-32 text-center rounded shadow-md duration-150 w-68 hover:-translate-y-2">
+    <div class="py-2 h-32 text-center rounded duration-150 menu-item w-68 hover:-translate-y-2">
         <a target="_blank" class="space-y-2 hover-teal-text" :href="url" v-if="url">
-            <div class="w-[50px] h-[50px] card-img mx-auto" :style="{ 'background-position-x': icon_offset }">
+            <div class="w-[50px] h-[50px] card-img-2 mx-auto" :style="{ 'background-position-x': icon_offset }">
             </div>
             <p>{{ title }}</p>
             <p class="text-sm text-gray-400">{{ subtitle }}</p>
         </a>
         <div class="space-y-2" v-else>
-            <div class="w-[50px] h-[50px] card-img mx-auto" :style="{ 'background-position-x': icon_offset }">
+            <div class="w-[50px] h-[50px] card-img-2 mx-auto" :style="{ 'background-position-x': icon_offset }">
             </div>
             <p>{{ title }}</p>
             <p class="text-sm text-gray-400">{{ subtitle }}</p>
@@ -32,7 +32,10 @@ export default {
 }
 </script>
 <style>
-.card-img {
+.card-img-2 {
     background-image: url('@/assets/home/part3-icon.png');
+}
+.menu-item {
+    box-shadow: 0 0 15px 0 rgba(206,224,229,.8);
 }
 </style>
