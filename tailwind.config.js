@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./public/*.{html, js}", "./src/components/**/*.{vue, js}"],
+  content: ["./public/*.{html, js}", "./src/**/*.{vue, js}"],
   theme: {
     extend: {
       display: ['hover'],

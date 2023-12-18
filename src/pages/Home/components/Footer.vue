@@ -24,7 +24,7 @@
             <p><a target="_blank" href="https://beian.miit.gov.cn/">京ICP备19004913号-1</a></p>
             
             <p class="flex space-x-1">
-                <img src="@/assets/home/jgwab.png" alt="">
+                <img src="@/assets/images/home/jgwab.png" alt="">
                 <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202009747">京公网安备11010202009747号</a>
                 
             </p>

@@ -19,25 +19,29 @@
         <div class="mx-auto py-[6vh] w-[1180px]">
             <PartnerLinks />
         </div>
-        <div class="bg-[#403e3f]">
-            <HomeFooter />
-        </div>
+
     </main>
+
+    <div class="bg-[#403e3f]">
+        <HomeFooter />
+    </div>
 </template>
 
 <script>
-import HomeFooter from './Footer.vue';
-import QRCode from './QRCode.vue';
-import HomeHeader from './Header.vue';
-import HomeNav from './Nav.vue';
-import HomeSlide from './Slide.vue'
-import HomeNews from './News.vue';
-import MiddleNav from './MiddleNav.vue';
-import HomeCards from './CardSet.vue'
-import SedMenu from './SedMenu.vue';
-import PartnerLinks from './PartnerLinks.vue';
+import HomeFooter from './components/Footer.vue';
+import QRCode from './components/QRCode.vue';
+import HomeHeader from './components/Header.vue';
+import HomeNav from './components/Nav.vue';
+import HomeSlide from './components/Slide.vue'
+import HomeNews from './components/News.vue';
+import MiddleNav from './components/MiddleNav.vue';
+import HomeCards from './components/CardSet.vue'
+import SedMenu from './components/SedMenu.vue';
+import PartnerLinks from './components/PartnerLinks.vue';
+
+
 export default {
-    name: 'HomeBody',
+    name: 'HomePage',
     components: {
         HomeHeader,
         HomeNav,

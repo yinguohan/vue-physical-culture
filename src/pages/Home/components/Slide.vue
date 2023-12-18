@@ -37,12 +37,12 @@ export default {
     data() {
         return {
             slides: [
-                { image: require('@/assets/home/2293203471.jpg'), caption: 'Image 1', url: 'https://gaokao.chsi.com.cn/gkzt/tyl2024' },
-                { image: require('@/assets/home/2293174319.jpg'), caption: 'Image 2', url: 'https://gaokao.chsi.com.cn/gkzt/gagx2024' },
-                { image: require('@/assets/home/2293172688.jpg'), caption: 'Image 3', url: 'https://gaokao.chsi.com.cn/gkzt/gspydd2024' },
-                { image: require('@/assets/home/2293171693.jpg'), caption: 'Image 4', url: 'https://gaokao.chsi.com.cn/gkzt/bss2024' },
-                { image: require('@/assets/home/2293171139.jpg'), caption: 'Image 5', url: 'https://gaokao.chsi.com.cn/gkzt/ysl2024' },
-                { image: require('@/assets/home/2293165968.jpg'), caption: 'Image 6', url: 'https://yz.chsi.com.cn/kyzx/zt/tydxs.shtml' },
+                { image: require('@/assets/images/home/2293203471.jpg'), caption: 'Image 1', url: 'https://gaokao.chsi.com.cn/gkzt/tyl2024' },
+                { image: require('@/assets/images/home/2293174319.jpg'), caption: 'Image 2', url: 'https://gaokao.chsi.com.cn/gkzt/gagx2024' },
+                { image: require('@/assets/images/home/2293172688.jpg'), caption: 'Image 3', url: 'https://gaokao.chsi.com.cn/gkzt/gspydd2024' },
+                { image: require('@/assets/images/home/2293171693.jpg'), caption: 'Image 4', url: 'https://gaokao.chsi.com.cn/gkzt/bss2024' },
+                { image: require('@/assets/images/home/2293171139.jpg'), caption: 'Image 5', url: 'https://gaokao.chsi.com.cn/gkzt/ysl2024' },
+                { image: require('@/assets/images/home/2293165968.jpg'), caption: 'Image 6', url: 'https://yz.chsi.com.cn/kyzx/zt/tydxs.shtml' },
             ],
             currentIndex: 0,
             timer: null

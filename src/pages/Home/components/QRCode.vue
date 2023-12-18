@@ -21,11 +21,11 @@ export default {
     data() {
         return {
             qr_data: [
-                {'title': '学信网', 'qr': require('@/assets/home/chsi-ewm.jpg')},
-                {'title': '阳光高考', 'qr': require('@/assets/home/gk-ewm.jpg')},
-                {'title': '研招网', 'qr': require('@/assets/home/yz-ewm.jpg')},
-                {'title': '国家大学生就业服务平台', 'qr': require('@/assets/home/xzy-ewm.jpg')},
-                {'title': '学职平台', 'qr': require('@/assets/home/xz-ewm.jpg')}
+                {'title': '学信网', 'qr': require('@/assets/images/home/chsi-ewm.jpg')},
+                {'title': '阳光高考', 'qr': require('@/assets/images/home/gk-ewm.jpg')},
+                {'title': '研招网', 'qr': require('@/assets/images/home/yz-ewm.jpg')},
+                {'title': '国家大学生就业服务平台', 'qr': require('@/assets/images/home/xzy-ewm.jpg')},
+                {'title': '学职平台', 'qr': require('@/assets/images/home/xz-ewm.jpg')}
             ]
         }
     }
@@ -33,13 +33,13 @@ export default {
 </script>
 <style>
 .qr-title {
-    background-image: url('@/assets/home/index-tit-bg.png');
+    background-image: url('@/assets/images/home/index-tit-bg.png');
     background-position-y: 26px;
     background-repeat: no-repeat;
 }
 
 .qr-item {
-    background-image: url('@/assets/home/wx-bg.png');
+    background-image: url('@/assets/images/home/wx-bg.png');
     background-repeat: no-repeat;
     background-position: right bottom;
 }

@@ -9,7 +9,7 @@
 
 <script>
 import Card from './Card.vue';
-import CardData from '@/assets/home/card-data.json'
+import CardData from '@/assets/images/home/card-data.json'
 export default {
     name: 'HomeCards',
     components: {

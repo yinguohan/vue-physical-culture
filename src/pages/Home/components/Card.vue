@@ -55,6 +55,6 @@ export default {
 
 <style>
 .card-img {
-    background-image: url('@/assets/home/part2-icon.png')
+    background-image: url('@/assets/images/home/part2-icon.png')
 }
 </style>

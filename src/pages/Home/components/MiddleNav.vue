@@ -1,7 +1,7 @@
 <template>
     <div class="flex justify-between space-x-2 rounded bg-slate-100">
         <div class="inline-flex px-6 py-4 w-48 rounded bg-main-teal nav-icon">
-            <img src="@/assets/home/ksrk.png" class="w-auto" alt="快速入口">
+            <img src="@/assets/images/home/ksrk.png" class="w-auto" alt="快速入口">
         </div>
         <div class="flex flex-wrap px-5 py-2 text-sm">
             <div class="py-2 mr-4 hover-teal-text" v-for="(item, index) in nav_items" :key="index">

@@ -11,7 +11,7 @@
             </div>
             <p>{{ title }}</p>
             <p class="text-sm text-gray-400">{{ subtitle }}</p>
-            <div class="text-white font-medium space-x-4 flex absolute top-0 left-0 justify-center items-center w-full h-[7.5rem] bg-gray-800 bg-opacity-50 rounded opacity-0 hover:opacity-100">
+            <div class="text-white font-medium space-x-4 flex absolute w-[271px] h-[128px] -top-2 left-0 justify-center items-center bg-gray-800 bg-opacity-50 rounded opacity-0 hover:opacity-100">
                 <a target="_blank" class="hover:underline" :href="hovered_link[0].url">{{ hovered_link[0].text }}</a>
                 <a target="_blank" class="hover:underline" :href="hovered_link[1].url">{{ hovered_link[1].text }}</a>
             </div>
@@ -33,7 +33,7 @@ export default {
 </script>
 <style>
 .card-img-2 {
-    background-image: url('@/assets/home/part3-icon.png');
+    background-image: url('@/assets/images/home/part3-icon.png');
 }
 .menu-item {
     box-shadow: 0 0 15px 0 rgba(206,224,229,.8);

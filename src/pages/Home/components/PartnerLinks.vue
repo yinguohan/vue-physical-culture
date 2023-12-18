@@ -14,7 +14,7 @@ export default {
     name: 'PartnerLinks',
     data() {
         return {
-            img: require('@/assets/home/yq-links.png'),
+            img: require('@/assets/images/home/yq-links.png'),
             links_data: [
                 'https://www.moe.gov.cn/', 
                 'https://www.moe.gov.cn/s78/A15/', 
@@ -32,12 +32,12 @@ export default {
 
 <style>
 .pl-title {
-    background-image: url('@/assets/home/index-tit-bg.png');
+    background-image: url('@/assets/images/home/index-tit-bg.png');
     background-position-y: 26px;
     background-repeat: no-repeat;
 }
 .link-item {
-    background-image: url('@/assets/home/yq-links.png');
+    background-image: url('@/assets/images/home/yq-links.png');
     background-repeat: no-repeat;
 }
 </style>
