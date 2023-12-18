@@ -4,7 +4,7 @@
         </div>
         <div class="absolute rounded w-[90%] top-5 left-1/2 -translate-x-1/2 bg-white h-28 shadow-sm p-4">
             <div class="flex space-x-4">
-                <div class="w-[51px] h-[51px] rounded-full border border-gray-200 card-img" :style="{'background-position-y': icon_offset}"></div>
+                <div class="w-[50px] h-[50px] rounded-full border border-gray-200 card-img" :style="{'background-position-y': icon_offset}"></div>
                 <div class="flex items-center text-lg hover-teal-text">
                     <a :href="title_url" target="_blank">
                         {{ title }}

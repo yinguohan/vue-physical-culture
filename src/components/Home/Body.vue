@@ -10,6 +10,12 @@
         <div class="bg-slate-100 py-[4vh]">
             <HomeCards />
         </div>
+        <div class="py-[8vh] w-[1180px] mx-auto">
+            <SedMenu />
+        </div>
+        <div class="py-[8vh] w-[1180px] mx-auto bg-slate-100">
+            
+        </div>
     </main>
 </template>
 
@@ -21,6 +27,7 @@ import HomeSlide from './Slide.vue'
 import HomeNews from './News.vue';
 import MiddleNav from './MiddleNav.vue';
 import HomeCards from './CardSet.vue'
+import SedMenu from './SedMenu.vue';
 export default {
     name: 'HomeBody',
     components: {
@@ -29,7 +36,8 @@ export default {
         HomeSlide,
         HomeNews,
         MiddleNav,
-        HomeCards
+        HomeCards,
+        SedMenu
     }
 }
 </script>
