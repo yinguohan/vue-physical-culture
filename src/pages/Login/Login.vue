@@ -11,7 +11,7 @@
                 </a>
                 <div class="flex justify-end items-center w-full text-sm text-center text-gray-500">
                     <div class="px-2 border-r border-r-gray-500">
-                        <a href="https://www.chsi.com.cn/">首页</a>
+                        <a href="/">首页</a>
                     </div>
                     <div class="px-2 border-r border-r-gray-500">
                         <a href="https://account.chsi.com.cn/account/help/index.jsp">帮助中心</a>
@@ -108,7 +108,7 @@
                     <div class="flex justify-between text-sm text-gray-600">
                         <a class="hover:underline" href="https://account.chsi.com.cn/account/password!retrive">找回密码</a>
                         <a class="hover:underline"
-                            href="https://account.chsi.com.cn/account/preregister.action?from=account-login">注册</a>
+                            href="register.html">注册</a>
                     </div>
                     <div class="relative mt-8 text-xs text-gray-400">
                         <p class="lined-title">其他登录方式</p>
@@ -185,7 +185,7 @@ export default {
     position: absolute;
     top: 50%;
     width: 150px;
-    height: 0.5px;
+    height: 1px;
     background-color: lightgray;
 }
 

@@ -12,6 +12,11 @@ module.exports = defineConfig({
       entry: 'src/pages/Login/Login.js',
       template: 'public/index.html',
       title: '登录_学信网'
+    },
+    register: {
+      entry: 'src/pages/Register/Register.js',
+      template: 'public/index.html',
+      title: '实名注册_学信网'
     }
   },
   configureWebpack: {
