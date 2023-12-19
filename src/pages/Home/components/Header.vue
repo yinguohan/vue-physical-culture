@@ -10,7 +10,7 @@
             <p>教育部学历查询网站、教育部高校招生阳光工程指定网站、全国硕士研究生招生报名和调剂指定网站</p>
         </div>
         <ul class="flex mt-10">
-            <li class="px-4 text-sm border-r border-gray-200"><a class="hover:border-b hover:border-b-gray-400" href="">注册</a></li>
+            <li class="px-4 text-sm border-r border-gray-200"><a class="hover:border-b hover:border-b-gray-400" href="register.html">注册</a></li>
             <li class="px-4 text-sm border-r border-gray-200"><a class="hover:border-b hover:border-b-gray-400" href="login.html">登录</a></li>
             <li class="px-4 text-sm"><a class="hover:border-b hover:border-b-gray-400" href="">English</a></li>
         </ul>
