@@ -9,7 +9,7 @@
                     <img src="@/assets/images/logo2x.png" alt="">
                     <img src="@/assets/images/title2x.png" alt="">
                 </a>
-                <div class="flex justify-center items-center text-sm text-center text-gray-500">
+                <div class="flex justify-end items-center w-full text-sm text-center text-gray-500">
                     <div class="px-2 border-r border-r-gray-500">
                         <a href="https://www.chsi.com.cn/">首页</a>
                     </div>
