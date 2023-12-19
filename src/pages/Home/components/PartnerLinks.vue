@@ -4,7 +4,7 @@
         </div>
         <div class="grid grid-cols-6 gap-6">
             <div class="w-[180px] h-[50px] link-item shadow" :style="{'background-position-y': -51*index+'px'}" v-for="(item, index) in links_data" :key="index">
-                <a :href="item" class="w-[100%] h-[100%]">
+                <a :href="item" class="w-full h-full">
             </a>
             </div>
         </div>

@@ -21,7 +21,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
                 </svg>
             </button>
-            <div class="absolute bottom-5 flex w-[100%] justify-center space-x-2">
+            <div class="absolute bottom-5 flex w-full justify-center space-x-2">
                 <div class="rounded-full w-2 h-2 hover:bg-white" v-for="index in slides.length" :key="index"
                     :class="{'bg-white': currentIndex === index - 1, 'bg-black': currentIndex !== index - 1, 'opacity-20': currentIndex !== index - 1 }"
                     @click="currentIndex = index - 1">
