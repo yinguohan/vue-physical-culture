@@ -9,9 +9,13 @@
                     <p class="text-2xl font-light leading-10">实名注册</p>
                 </div>
                 <div class="flex my-auto space-x-2 text-sm">
-                    <p class="text-main-teal hover:underline">登录</p>
+                    <p class="text-main-teal hover:underline">
+                        <a href="login.html">登录</a>
+                    </p>
                     <p>|</p>
-                    <p class="hover:underline">注册</p>
+                    <p class="hover:underline">
+                        注册
+                    </p>
                 </div>
             </div>
         </nav>
