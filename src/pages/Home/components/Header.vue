@@ -12,7 +12,7 @@
         <ul class="flex mt-10">
             <li class="px-4 text-sm border-r border-gray-200"><a class="hover:border-b hover:border-b-gray-400" href="register.html">注册</a></li>
             <li class="px-4 text-sm border-r border-gray-200"><a class="hover:border-b hover:border-b-gray-400" href="login.html">登录</a></li>
-            <li class="px-4 text-sm"><a class="hover:border-b hover:border-b-gray-400" href="">English</a></li>
+            <!-- <li class="px-4 text-sm"><a class="hover:border-b hover:border-b-gray-400" href="">English</a></li> -->
         </ul>
     </header>
 

@@ -31,7 +31,7 @@
                         <p>请使用</p>
                         <a class="text-gray-500 hover:underline"
                             href="https://account.chsi.com.cn/account/help/index.jsp?keywords=%E5%AD%A6%E4%BF%A1%E7%BD%91%E8%B4%A6%E5%8F%B7%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88">
-                            学信网账号
+                            创展体育账号
                         </a>
                         <p>登录</p>
                     </div>

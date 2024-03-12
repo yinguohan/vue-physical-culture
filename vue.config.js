@@ -6,17 +6,17 @@ module.exports = defineConfig({
     index: {
       entry: 'src/pages/Home/Home.js',
       template: 'public/index.html',
-      title: '中国高等教育学生信息网（学信网）',
+      title: '创展体育',
     },
     login: {
       entry: 'src/pages/Login/Login.js',
       template: 'public/index.html',
-      title: '登录_学信网'
+      title: '登录_创展体育'
     },
     register: {
       entry: 'src/pages/Register/Register.js',
       template: 'public/index.html',
-      title: '实名注册_学信网'
+      title: '实名注册'
     }
   },
   configureWebpack: {
