@@ -1,11 +1,11 @@
 <template>
     <div >
-        <div class="w-[600px] h-[300px] relative overflow-hidden">
+        <div class="w-[500px] h-[300px] relative overflow-hidden">
             <div class="absolute left-0 flex transform duration-300 z-auto"
                 :style="{ transform: 'translateX(' + (-currentIndex * 600) + 'px)' }">
                 <div class="w-[600px] h-[300px]" v-for="(slide, index) in slides" :key="index">
                     <a :href="slide.url" target="_blank">
-                        <img class="rounded" style="height: 100%;" :src="slide.image" :alt="slide.caption" />
+                        <img class="rounded" style="height: 100%; width: 80%" :src="slide.image" :alt="slide.caption" />
                     </a>
                 </div>
             </div>
@@ -40,11 +40,10 @@ export default {
     data() {
         return {
             slides: [
-                { image: require('@/assets/images/home/2293172688.jpg'), caption: 'Image 3', url: 'https://gaokao.chsi.com.cn/gkzt/gspydd2024' },
+                // { image: require('@/assets/images/home/2293172688.jpg'), caption: 'Image 3', url: 'https://gaokao.chsi.com.cn/gkzt/gspydd2024' },
                 { image: require('@/assets/images/home/45698465131.jpg'), caption: 'Image 7', url: 'https://yz.chsi.com.cn/kyzx/zt/tydxs.shtml' },
-                { image: require('@/assets/images/home/20240305152.jpg'), caption: 'Image 8', url: 'https://yz.chsi.com.cn/kyzx/zt/tydxs.shtml' },
                 { image: require('@/assets/images/home/20240305152358.jpg'), caption: 'Image 9', url: 'https://yz.chsi.com.cn/kyzx/zt/tydxs.shtml' },
-                { image: require('@/assets/images/home/20240305152348.jpg'), caption: 'Image 10', url: 'https://yz.chsi.com.cn/kyzx/zt/tydxs.shtml' },
+                { image: require('@/assets/images/home/20240305152.jpg'), caption: 'Image 9', url: 'https://yz.chsi.com.cn/kyzx/zt/tydxs.shtml' },
                 
             ],
             currentIndex: 0,
